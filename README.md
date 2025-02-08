@@ -1,1 +1,1 @@
-Creating Twitter UI clone using tailwindcss.
+Creating Twitter-UI clone using tailwindcss.
